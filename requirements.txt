@@ -1,4 +1,4 @@
-streamlit
-matplotlib
-pandas
-numpy
+streamlit==[última versión]
+matplotlib==[última versión]
+pandas==[última versión]
+numpy==[última versión]
